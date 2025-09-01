@@ -1,4 +1,4 @@
-Olá!! Sou a Letícia de Almeida.
+Olá!! Sou a Letícia Nascimentos de Almeida.
 
 - 🔭  Python | SQL 
 
